@@ -1,2 +1,2 @@
 # BIE-PSI-TCP-server
-The Semestral project for the Computer Network Class
+The Semestral project for the Computer Networks course
